@@ -1,6 +1,6 @@
 name: PMTwitterAPI
 api: [3.0.0]
-antigen: bbo51dog\pmtwitter\PMTwitterPlugin
+main: bbo51dog\pmtwitter
 version: 1.0.0-dev
 author: bbo51dog
 description: API to post on twitter
